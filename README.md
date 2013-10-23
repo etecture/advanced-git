@@ -1,3 +1,3 @@
 # Advanced Git 
 
-Eine Präsentation über Git von [Kahlil Lechelt](http://github.com/kahlil) und [Manuel Zamora](http://zamora.de/).
+Eine Präsentation über Git von [Manuel Zamora](http://zamora.de/) und [Kahlil Lechelt](http://github.com/kahlil).
